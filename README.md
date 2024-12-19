@@ -1,0 +1,1 @@
+# Entendendo-um-Ransomware-na-Pr-tica-com-Python
